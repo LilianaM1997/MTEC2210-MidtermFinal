@@ -184,6 +184,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d4243b4534162743a9db32fabfe3b29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  audioSource: {fileID: 578189583}
+  coinSound: {fileID: 8300000, guid: 4a23360aced74fb45b617e06153db354, type: 3}
   score: {fileID: 1049599116}
 --- !u!58 &209562869
 CircleCollider2D:
